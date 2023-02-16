@@ -1,0 +1,5 @@
+1. Xây dựng lớp PS, nhập xuất, cộng, trừ, nhân, chia, rút gọn
+
+2. Xây dựng lớp DanhSachPhanSo, Nhap , Xuat, Tong các phần tử danh sách.
+
+3. Xây lớp Xe (tên xe, năm sản xuất,..) có chứa 1 danh sách các bánh xe.

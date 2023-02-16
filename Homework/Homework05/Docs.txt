@@ -1,0 +1,4 @@
+Xây dựng lớp hình tròn trong mặt phẳng có tâm và bán kính. 
+Xây dựng lớp quản lý danh sách hình tròn. 
+Viết đầy đủ các hàm khởi tạo , truy vấn, cập nhật cho các lớp phát sinh.
+Nộp cùng câu hỏi LT ôn tập trên lớp

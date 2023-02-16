@@ -1,0 +1,1 @@
+Xây dựng lớp Đa giác và Tam Giác với các hàm Nhap(), Xuat().

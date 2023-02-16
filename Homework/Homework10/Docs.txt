@@ -1,0 +1,6 @@
+Thiết kế các lớp thích hợp để thực hiện các yêu cầu sau:
+- Nhập thông tin của các nhân viên để phục vụ cho việc tính lương.
+- Thực hiện việc tính lương cho từng nhân viên.
+- Xuất thông tin của các nhân viên.
+- Tính tổng lương của công ty.
+- Tìm kiếm một nhân viên theo họ tên
